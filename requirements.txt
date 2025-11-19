@@ -1,0 +1,6 @@
+FastAPI
+python-Levenshtein
+uvicorn
+joblib
+scikit-learn
+pandas
